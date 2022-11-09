@@ -6,7 +6,7 @@ body {
 
 header {
     height: 100vh;
-    background-image: url("/img/fon-header.jpg");
+    background-image: url("img/fon-header.jpg");
     background-size:cover;
     background-repeat: no-repeat;
 }
